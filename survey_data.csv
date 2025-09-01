@@ -1,0 +1,16 @@
+user_id,age,gender,satisfaction_rating,feature_preference,referral_likelihood
+1,25,Male,4,Feature A,Very Likely
+2,34,Female,5,Feature B,Likely
+3,41,Female,3,Feature A,Neutral
+4,29,Male,5,Feature C,Very Likely
+5,50,Female,2,Feature B,Unlikely
+6,31,Non-binary,4,Feature A,Likely
+7,22,Female,5,Feature C,Very Likely
+8,45,Male,1,Feature B,Very Unlikely
+9,38,Male,4,Feature A,Likely
+10,27,Female,5,Feature B,Very Likely
+11,33,Male,3,Feature C,Neutral
+12,55,Female,5,Feature A,Very Likely
+13,42,Male,4,Feature B,Likely
+14,36,Female,2,Feature C,Unlikely
+15,28,Male,5,Feature A,Very Likely
